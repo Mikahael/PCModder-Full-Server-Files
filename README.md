@@ -13,8 +13,6 @@ Decided time to go. My work is fully done here. Those who wish to use, has permi
 
 []Thank you
 
-#first mod released to the public by PC||Modder/PC231392/PC290717
-
 #thankyou for using PC Server Files
 
 #they work on all server files from 1.4.148 and up
